@@ -6,7 +6,7 @@ To design a website to perform mathematical calculations in server side.
 ## DESIGN STEPS:
 
 ### Step 1:
-clone the repository from the guthub
+clone the repository from the github.
 
 
 ### Step 2:
@@ -25,7 +25,6 @@ enter the code.
 
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## PROGRAM :
@@ -138,8 +137,8 @@ urlpatterns = [
 ## OUTPUT:
 
 ### Home Page:
-![output](./Area of prism.png)
+![output](./Areaofprism.png)
 
-## Result:
+## RESULT:
 The program is executed successfully.
 
